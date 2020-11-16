@@ -54,6 +54,10 @@ h5 {
     color: #55C4F9;
 }
 
+#main_area h3 {
+    color: #4BD2DB;
+}
+
 #main_area p {
     text-align: justify;
 }
@@ -143,4 +147,13 @@ a:hover {
     flex-direction: column;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+}
+
+#video iframe {
+    height: 50vh;
 }

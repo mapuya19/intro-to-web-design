@@ -59,6 +59,10 @@ h5 {
     color: #55C4F9;
 }
 
+#main_area h3 {
+    color: #4BD2DB;
+}
+
 #main_area p {
     text-align: justify;
     margin-left: 30%;
@@ -147,4 +151,9 @@ a:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+#video iframe {
+    height: 40vh;
+    width: 30vw;
 }
